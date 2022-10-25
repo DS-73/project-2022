@@ -1,0 +1,43 @@
+/* *{
+    margin:0;
+    padding: 0;
+} */ 
+body{
+    background-image: url('../Akshay-Kumar-Swap-meme-template-of-Ajnabee.jpg');
+}
+.container{
+    text-align: center;
+}
+
+table{
+    margin: auto ;
+    font-size: 34px;
+}
+
+h1{
+    color: white;
+    font-size: 55px ;
+}
+input{
+    font-size: 34px;
+    border: 2px solid rgb(9, 112, 9);
+    border-radius: 13px;
+    background-color: rgb(232 255 198);
+    text-align: right;
+}
+
+button{
+    font-size: 36px;
+    background: black;
+    color: white;
+    width: 102px;
+    height: 68px;
+    border-radius: 23px;
+}
+
+.calculator{
+    display: inline-block;
+    background-color: #d3d0d0;
+    padding: 23px;
+    border-radius: 53px;
+}
